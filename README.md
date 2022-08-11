@@ -5,6 +5,6 @@
   
   ## Results ##
   ![Decmeber Temperatures:](https://github.com/DomKnowlage/Surfs_Up/blob/main/December_Temps.png)
-  June Temperatures: https://github.com/DomKnowlage/Surfs_Up/blob/main/June_Temps.png
+  ![June Temperatures: https:](//github.com/DomKnowlage/Surfs_Up/blob/main/June_Temps.png)
   
   
